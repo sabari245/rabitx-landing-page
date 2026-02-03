@@ -21,7 +21,7 @@ export function Hero() {
         >
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-foreground leading-[1.1]">
             <span className="text-primary block text-4xl md:text-5xl lg:text-6xl mb-2">1,418,277+ users</span>
-            buy, sell & swap crypto with Onramp Money
+            buy, sell & swap crypto with RabitX
           </h1>
           
           <div className="flex flex-wrap items-center justify-center lg:justify-start gap-4 text-sm font-medium text-muted-foreground">

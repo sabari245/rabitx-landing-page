@@ -6,7 +6,7 @@ export function Footer() {
       <div className="container-custom">
          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 mb-16">
             <div className="col-span-2 lg:col-span-2">
-               <p className="text-xs font-bold text-white mb-6 uppercase tracking-wider">Get With Onramp</p>
+               <p className="text-xs font-bold text-white mb-6 uppercase tracking-wider">Get With RabitX</p>
                <div className="flex flex-wrap gap-2 mb-8">
                   {['BTC', 'ETH', 'USDT', 'USDC', 'BNB', 'XRP', 'MATIC', 'DOGE', 'TRX'].map(coin => (
                      <span key={coin} className="px-2 py-1 bg-white/5 rounded text-[10px] text-white/70 border border-white/10 flex items-center gap-1">
@@ -87,7 +87,7 @@ export function Footer() {
                <a href="#">User Verification AML</a>
                <a href="#">General Risk Disclosure</a>
             </div>
-            <p>© 2026 Onramp Money. All rights reserved.</p>
+            <p>© 2026 RabitX. All rights reserved.</p>
          </div>
       </div>
     </footer>

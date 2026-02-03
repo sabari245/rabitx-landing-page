@@ -6,7 +6,7 @@ export function Platforms() {
       <div className="container-custom">
         <div className="text-center mb-16">
            <p className="text-sm font-medium text-blue-600 mb-2 tracking-wide uppercase">SUPPORTS MULTIPLE PLATFORMS</p>
-           <h2 className="text-3xl md:text-4xl font-bold">Use Onramp Money to transact anywhere</h2>
+           <h2 className="text-3xl md:text-4xl font-bold">Use RabitX to transact anywhere</h2>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -16,7 +16,7 @@ export function Platforms() {
               </div>
               <div>
                  <h3 className="text-lg font-bold mb-2 text-blue-900">Blockchain wallets</h3>
-                 <p className="text-sm text-muted-foreground">Major blockchain wallets such as Metamask have integrated Onramp Money for a seamless purchase experience.</p>
+                 <p className="text-sm text-muted-foreground">Major blockchain wallets such as Metamask have integrated RabitX for a seamless purchase experience.</p>
               </div>
            </div>
 

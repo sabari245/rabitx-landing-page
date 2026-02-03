@@ -13,7 +13,7 @@ export function Navbar() {
       {/* Top Bar */}
       <div className="bg-black text-white text-xs py-2 text-center font-medium">
         <span className="flex items-center justify-center gap-1">
-          📱 Get the Onramp Money app soon
+          📱 Get the RabitX app soon
           <span className="text-gray-400">&gt;</span>
         </span>
       </div>
@@ -25,7 +25,7 @@ export function Navbar() {
              {/* Simple Logo Placeholder */}
             <div className="text-2xl font-bold tracking-tighter flex items-center gap-1">
               <div className="w-6 h-6 bg-blue-600 rounded-sm skew-x-[-10deg]"></div>
-              <span>ONRAMP</span>
+              <span>RabitX</span>
             </div>
           </Link>
 

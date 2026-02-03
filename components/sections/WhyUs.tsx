@@ -4,7 +4,7 @@ export function WhyUs() {
   return (
     <section className="py-24 bg-white">
       <div className="container-custom">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">Why Onramp Money?</h2>
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">Why RabitX?</h2>
 
         <div className="grid md:grid-cols-3 gap-12 mb-20">
            <div className="bg-blue-50/30 p-8 rounded-2xl text-center md:text-left">

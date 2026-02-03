@@ -6,9 +6,9 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const faqs = [
   { question: "How many cryptocurrencies do you support?", answer: "We support over 400+ cryptocurrencies across multiple networks." },
-  { question: "Which fiat currencies does Onramp provide support for?", answer: "We support 22+ fiat currencies including USD, EUR, INR, TRY, and many more." },
+  { question: "Which fiat currencies does RabitX provide support for?", answer: "We support 22+ fiat currencies including USD, EUR, INR, TRY, and many more." },
   { question: "Can I subsidize fees charged to users?", answer: "Yes, our partners can choose to subsidize fees for their users to provide a seamless experience." },
-  { question: "Where does onramp money source liquidity from?", answer: "We aggregate liquidity from multiple top-tier exchanges and liquidity providers." },
+  { question: "Where does RabitX source liquidity from?", answer: "We aggregate liquidity from multiple top-tier exchanges and liquidity providers." },
   { question: "What all integration options do you support?", answer: "We provide Widget, API, and SDK integration options for web and mobile platforms." },
 ];
 

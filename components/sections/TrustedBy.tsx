@@ -37,7 +37,7 @@ export function TrustedBy() {
                 <div>
                    <p className="text-xs font-semibold text-blue-600 mb-1">LIVE INTEGRATION WITH</p>
                    <p className="font-bold text-gray-900">BingX</p>
-                   <p className="text-xs text-muted-foreground">Buy crypto on BingX with Onramp Money</p>
+                   <p className="text-xs text-muted-foreground">Buy crypto on BingX with RabitX</p>
                 </div>
              </div>
 
@@ -48,7 +48,7 @@ export function TrustedBy() {
                 <div>
                    <p className="text-xs font-semibold text-blue-600 mb-1">LIVE INTEGRATION WITH</p>
                    <p className="font-bold text-gray-900">PAXFUL</p>
-                   <p className="text-xs text-muted-foreground">Buy crypto in Paxful with Onramp Money</p>
+                   <p className="text-xs text-muted-foreground">Buy crypto in Paxful with RabitX</p>
                 </div>
              </div>
         </div>
